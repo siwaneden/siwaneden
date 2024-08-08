@@ -1,6 +1,6 @@
 # Olá, sou Siwan 👋
 
-Sou um estudante de Ciências da Computação atualmente no 4 semestre.
+Sou um estudante de Ciências da Computação atualmente no 5 semestre.
 
 ## 📚 Educação
 
