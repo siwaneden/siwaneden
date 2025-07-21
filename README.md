@@ -1,7 +1,7 @@
 # 👨‍💻 Siwan Oliveira
 
-🎓 **Acadêmico de Ciência da Computação** - 6º Semestre  
-🚀 Apaixonado por desenvolvimento web, dados e automação!
+🎓 **Acadêmico de Ciência da Computação** - 7º Semestre  
+🚀 Apaixonado por desenvolvimento web e automação!
 
 ## 🚀 Tecnologias que trabalho:
 
@@ -19,12 +19,12 @@
 - 🌐 **Desenvolvimento Web Full Stack**
 - 🔎 **Web Scraping**
 - 🛠️ **Automação de Processos**
-- 📈 **Análise de Dados**
+*
 
 
 ## 📚 Sobre mim:
 
-Sou estudante de Ciência da Computação atualmente no 6º semestre, sempre em busca de novos desafios e aprendizados. Gosto de aplicar tecnologia para resolver problemas reais, seja desenvolvendo aplicações web modernas ou criando scripts inteligentes para automação e coleta de dados.
+Sou estudante de Ciência da Computação atualmente no 7º semestre, sempre em busca de novos desafios e aprendizados. Gosto de aplicar tecnologia para resolver problemas reais, seja desenvolvendo aplicações web modernas ou criando scripts inteligentes para automação e coleta de dados.
 
 ## 🛠️ Ferramentas e Tecnologias:
 
