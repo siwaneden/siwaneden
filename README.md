@@ -3,6 +3,9 @@
 🎓 **Acadêmico de Ciência da Computação** - 7º Semestre  
 🚀 Apaixonado por desenvolvimento web e automação!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
 ## 🚀 Tecnologias que trabalho:
 
 - ⚡ **Next.js**
