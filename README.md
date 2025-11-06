@@ -1,6 +1,6 @@
 #  👨‍💻 Siwan Oliveira
 
-![Siwan Oliveira GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/pedro3pv?cardType=level&theme=github-dark&preferLogin=false)
+![Siwan Oliveira GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/siwaneden?cardType=level&theme=github-dark&preferLogin=false)
 
 
 🎓 **Acadêmico de Ciência da Computação** - 7º Semestre  
