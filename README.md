@@ -2,10 +2,6 @@
 
 ![Siwan Oliveira GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/siwaneden?cardType=level&theme=github-dark&preferLogin=false)
 
-
-🎓 **Acadêmico de Ciência da Computação** - 7º Semestre  
-🚀 Apaixonado por desenvolvimento web e automação!
-
 ## 🚀 Tecnologias que trabalho:
 
 - ⚡ **Next.js**
