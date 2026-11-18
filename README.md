@@ -23,7 +23,7 @@
 
 ## 📚 Sobre mim:
 
-Sou estudante de Ciência da Computação atualmente no 7º semestre, sempre em busca de novos desafios e aprendizados. Gosto de aplicar tecnologia para resolver problemas reais, seja desenvolvendo aplicações web modernas ou criando scripts inteligentes para automação e coleta de dados.
+Sou estudante de Ciência da Computação atualmente finalizando, sempre em busca de novos desafios e aprendizados. Gosto de aplicar tecnologia para resolver problemas reais, seja desenvolvendo aplicações web modernas ou criando scripts inteligentes para automação e coleta de dados.
 
 ## 🛠️ Ferramentas e Tecnologias:
 
